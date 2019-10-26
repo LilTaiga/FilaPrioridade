@@ -1,0 +1,11 @@
+Tempo para inserção dos números:
+LISTA ENCADEADA: 	0.198s
+VETOR DESORDENADO:	0s
+VETOR ORDENADO:		0.178s
+VETOR HEAP:		0s
+
+Tempo para remoção dos números:
+LISTA ENCADEADA:	0s
+VETOR DESORDENADO:	0.154s
+VETOR ORDENADO: 	0.054s
+VETOR HEAP:		0.015s
